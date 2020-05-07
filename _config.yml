@@ -70,16 +70,22 @@ navs:
     label: 主页
 
   -
-    href: /reading.html
-    label: 读书
-
-  -
     href: /recommend.html
-    label: 推荐算法
+    label: 分类
+    subnav:
 
-  -
-    href: /life.html
-    label: 生活
+      -
+        subHref: /recommend.html
+        subLabel: 推荐算法
+
+      -
+        subHref: /reading.html
+        subLabel: 读书
+
+      -
+        subHref: /life.html
+        subLabel: 生活
+
 
   -
     href: /archives.html

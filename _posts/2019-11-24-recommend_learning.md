@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 早知道就好了--关于推荐系统在学校没学到的那些事
+title: 推荐系统入门——没在学校学到的那些事
 category: recommend
 tags: [recommend]
-excerpt: 推荐系统在学校里面没有学到的那些事
+excerpt: 推荐系统入门必备知识
 no-post-nav: true
 ---
 

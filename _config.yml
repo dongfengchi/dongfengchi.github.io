@@ -8,11 +8,11 @@
 # Site settings
 title: 峰池的博客
 subtitle: 一个爱读书的算法工程师
-name: 峰池
+name: 峰池的博客
 email: fengchicrazy@163.com
 location: Beijing
-description: 董峰池的个人博客.分享推荐算法工程师的一些经验和想法,和个人读书的一些笔记和生活想法
-keywords: 算法工程师,算法求职,推荐算法,读书笔记,大数据,开发者,编程,代码,Geek,今日头条,字节跳动
+description: 本站是峰池的个人博客。分享推荐算法工程师的一些经验和想法,和个人读书的一些笔记和生活想法
+keywords: fengchi,峰池,董峰池,峰池的博客,算法,算法工程师,算法求职,推荐算法,读书笔记,大数据,开发者,编程,代码,Geek
 encoding: "utf-8"
 favicon: favicon.png
 
@@ -60,7 +60,7 @@ plugins:
   - jekyll-paginate
 
 # Pagination
-paginate: 12
+paginate: 10
 paginate_path: 'page:num'
 
 # Navigation. If you do not like these modules, just remove them :D
@@ -76,7 +76,7 @@ navs:
 
       -
         subHref: /recommend.html
-        subLabel: 推荐算法
+        subLabel: 算法
 
       -
         subHref: /reading.html
@@ -93,7 +93,7 @@ navs:
 
   -
     href: /about.html
-    label: 简介
+    label: 关于我
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 5 # Number of repos to show

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 算法工程师求职2-算法岗校招准备的范围有哪些？
+title: 算法工程师求职2-算法岗准备的范围有哪些？
 category: recommend
 tags: [recommend]
-excerpt: 算法工程师求职-算法岗校招准备的范围有哪些？
+excerpt: 算法工程师求职-算法岗准备的范围有哪些？
 ---
 
 ## 算法岗要求总览

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: 峰池的简介
 menu: about
                             
 ---

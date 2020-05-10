@@ -3,10 +3,8 @@ layout: post
 title: 《神经网络与深度学习》——最好的深度学习教科书
 category: recommend
 tags: [recommend]
-excerpt: 《神经网络与深度学习》，最好的深度学习书
 no-post-nav: true
 ---
-
 
 给大家推荐一本个人目前读到的最好的深度学习相关的书籍，《神经网络与深度学习》，个人的体验甚至超过了花书《Deep Learning》。这本书是由复旦大学 [邱锡鹏](https://xpqiu.github.io/) 老师写作的一本深度学习教科书。书籍的[主页](https://nndl.github.io/)，目前开源在github，star已经超过11.4k，豆瓣评分高达9.6。可以在主页直接下载pdf。
 

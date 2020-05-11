@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 峰池的简介
+title: 董峰池其人
 menu: about
                             
 ---

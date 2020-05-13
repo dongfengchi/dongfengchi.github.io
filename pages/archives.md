@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All articles are here
+title: 所有文章
 titlebar: archives
 subtitle: <span class="mega-octicon octicon-calendar">
 menu: archives

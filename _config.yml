@@ -56,7 +56,7 @@ syntax_highlighter_opts:
 # gittalk
 comment_gitalk_clientId: a76c9b6c9dfbacdeae99
 comment_gitalk_clientSecret: 6949098a24eb9c9555120cdddd533ba801976cdd
-comment_gitalk_repo: https://dongfengchi.github.io/blog_comment_gittalk
+comment_gitalk_repo: blog_comment_gitalk
 github_username: dongfengchi
 
 plugins:

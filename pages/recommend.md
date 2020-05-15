@@ -29,10 +29,7 @@ permalink: /recommend
         <!-- Pagination -->
         {% include pagination.html %}
 
-        <!-- Comments -->
-       <div class="comment">
-         {% include comments.html %}
-       </div>
+        {% include gitalk.html %}
     </div>
 
 </div>

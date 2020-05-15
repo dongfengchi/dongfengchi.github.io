@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 聊聊近期读过的书
+title: 世界读书日|《定位》《当你像鸟飞往你的山》《生命3.0》
 category: reading
 tags: [reading]
 excerpt: 《定位》《当你像鸟飞往你的山》《生命3.0》

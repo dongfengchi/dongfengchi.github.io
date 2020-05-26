@@ -19,7 +19,6 @@ favicon: favicon.png
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-# url: http://localhost:4000
 url: http://www.dongfengchi.com
 
 repository: dongfengchi/dongfengchi.github.io
@@ -61,6 +60,7 @@ github_username: dongfengchi
 
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Pagination
 paginate: 10
